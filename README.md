@@ -62,6 +62,6 @@ Entorno Virtual
         $ conda create --name dd20 python=3.6
         $ conda activate dd20
 
-1. Instalar dependencias:
+2. Instalar dependencias:
 
         $ pip install -r requirements.txt
