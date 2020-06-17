@@ -3,7 +3,6 @@ Análisis de Red de Telecomunicaciones
 
 ### **Mentor**: Mario Ferreyra
 
-
 ### Descripción
 
 Se propone analizar los datos provenientes de una de las Áreas de Negocio de la Empresa para la cual trabajo. Hablamos de su Red de Telecomunicaciones a nivel provincial. La misma, está compuesta por la Infraestructura de la Red de Telecomunicaciones propiamente dicha, la cual abarca la Red Teleoperación e Interconexión de Estaciones Eléctricas, la Red de Telemedición y Transporte de Datos, Red de Infraestructura de TI, Red de Protección del Tendido Eléctrico y la Red para Provisión/Comercialización de Internet Corporativo.
@@ -28,6 +27,36 @@ El análisis y sus resultados nos permitirán tener una acabada idea de su capac
 * ¿Es posible detectar anomalías o comportamientos sospechosos en el tráfico de la Red?
 * ¿La actividad de la Red varía según el día de la semana o mes? 
 * ¿Los cortes en la Red están asociados con alguna otra/s variable/s del set de datos?
+
+---
+
+Alumnos
+=======
+
+### Grupo 1
+
+* Carlos Barcia
+  - **Mail**: cbarcia@unc.edu.ar
+
+* Gustavo Álvarez
+  - **Mail**: gustavo-alvarez97@live.com.ar
+
+* Sergio Sulca
+  - **Mail**: sergisulca@gmail.com
+
+* María Soledad Fernández
+  - **Mail**: msoledad.fernandez@gmail.com
+
+### Grupo 2
+
+* Matias Trapaglia
+  - **Mail**: matiasdanmansilla@gmail.com
+
+* Nazareno Medrano
+  - **Mail**: nazarenomedrano16@gmail.com
+
+* Fernando Fontana
+  - **Mail**: fernandoefontana@gmail.com
 
 ---
 
