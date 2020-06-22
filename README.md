@@ -63,7 +63,7 @@ Alumnos
 
 * Fernando Fontana
   - **Mail**: fernandoefontana@gmail.com
-  - **GitHub**: 
+  - **GitHub**: https://github.com/fefontana
 
 ---
 
