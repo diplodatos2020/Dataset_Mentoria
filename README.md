@@ -74,19 +74,20 @@ Dataset
 
 * Consta de +16K registros (filas) y 11 features (columnas)
 
-| Feature                   | Descripción                                        |
-|:-------------------------:|:---------------------------------------------------|
-| **ID_EQUIPO**             | Switch/Router                                      |
-| **PUNTO_MEDICION**        | Línea Troncal                                      |
-| **CAPACIDAD_MAXIMA_GBS**  | Capacidad maxima [Gigabit/seg]                     |
-| **FECHA_INICIO_MEDICION** | Fecha y hora inicio medicion                       |
-| **FECHA_HORA**            | Fecha y hora efectiva de la medida                 |
-| **FECHA_FIN_MEDICION**    | Fecha y hora fin de medicion                       |
-| **PASO**                  | -                                                  |
-| **LATENCIA_MS**           | Latencia (tiempo de espera de la respuesta) [mseg] |
+| Feature                   | Descripción                                                                |
+|:-------------------------:|:---------------------------------------------------------------------------|
+| **ID_EQUIPO**             | Switch/Router                                                              |
+| **PUNTO_MEDICION**        | Línea Troncal                                                              |
+| **CAPACIDAD_MAXIMA_GBS**  | Capacidad maxima [Gigabit/seg]                                             |
+| **FECHA_INICIO_MEDICION** | Fecha y hora inicio medicion                                               |
+| **FECHA_HORA**            | Fecha y hora efectiva de la medida                                         |
+| **FECHA_FIN_MEDICION**    | Fecha y hora fin de medicion                                               |
+| **PASO**                  | -                                                                          |
+| **LATENCIA_MS**           | Latencia (tiempo de espera de la respuesta) [mseg]                         |
 | **PORCENTAJE_PACK_LOSS**  | % de paquetes perdidos (pings configurados en diferentes momentos del dia) |
-| **INBOUND_GBPS**          | Trafico de entrada [Gigabit/seg]                   |
-| **OUTBOUND_GBPS**         | Trafico de salida  [Gigabit/seg]                   |
+| **INBOUND_GBPS**          | Trafico de entrada [Gigabit/seg]                                           |
+| **OUTBOUND_GBPS**         | Trafico de salida  [Gigabit/seg]                                           |
+| **MEDIDA**                | Unidad a convertir los campos `INBOUND_BITS` y `OUTBOUND_BITS`             |
 
 ---
 
